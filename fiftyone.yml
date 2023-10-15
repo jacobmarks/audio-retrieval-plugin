@@ -1,0 +1,10 @@
+name: "@jacobmarks/audio_retrieval"
+description: Find the images in your dataset most similar to an audio file!
+version: 1.0.1
+fiftyone:
+  version: ">=0.21.0"
+license: Apache 2.0
+operators:
+  - create_imagebind_index
+  - search_images_from_audio
+  - open_audio_retrieval_panel
