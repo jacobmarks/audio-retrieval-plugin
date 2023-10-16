@@ -1,6 +1,6 @@
 ## Audio-to-Image Search Plugin 🔉 👉 🖼️
 
-https://github.com/jacobmarks/audio-retrieval-plugin/assets/12500356/d8189ec1-4cb0-48ee-9204-1e0715d7551c
+https://github.com/jacobmarks/audio-retrieval-plugin/assets/12500356/5365716f-5d65-4215-b6c4-889ee1d16f65
 
 This plugin allows you to search your dataset for images that are similar to a
 given audio clip.
