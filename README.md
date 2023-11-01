@@ -18,6 +18,10 @@ It works with `ogg` and `wav` audio files, but not `mp3` files, and makes an API
 call to replicate rather than running the embedding model locally, to avoid
 potential installation issues.
 
+## Watch On Youtube
+[![Video Thumbnail](https://img.youtube.com/vi/dn5DA4H9b-o/0.jpg)](https://www.youtube.com/watch?v=dn5DA4H9b-o&list=PLuREAXoPgT0RZrUaT0UpX_HzwKkoB-S9j&index=12)
+
+
 ## Installation
 
 ```shell
